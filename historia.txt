@@ -3,6 +3,8 @@ Esta es la historia de Brandon Bustos
 Brandon tiene 21 años , naci en colombia
 vivo en Tulua
 
+escrito con la terminal de vim
+
 ahora conoceremos su historia
 
 es muy alto, mide 1,76
